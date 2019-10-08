@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSDW3LoginCashConvert", "CSDW3LoginCashConvert.csproj", "{672FDC70-8E1E-4F6A-B2B7-F74CFB239ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{672FDC70-8E1E-4F6A-B2B7-F74CFB239ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672FDC70-8E1E-4F6A-B2B7-F74CFB239ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672FDC70-8E1E-4F6A-B2B7-F74CFB239ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672FDC70-8E1E-4F6A-B2B7-F74CFB239ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF26379-CBC4-4E5E-A1A4-2C6C6A0166A2}
+	EndGlobalSection
+EndGlobal
